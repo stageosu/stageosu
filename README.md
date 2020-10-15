@@ -19,3 +19,6 @@
         - Used in ~5,000 Discord Communities
         - Used by over 230,000 unique users
         - Over 330,000 commands used to date
+---
+### Github Stats:
+[![Stage's github stats](https://github-readme-stats.vercel.app/api?username=stageosu&count_private=true&show_icons=true&theme=radical)](https://github.com/stageosu/github-readme-stats)
