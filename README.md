@@ -22,3 +22,4 @@
 ---
 ### Github Stats:
 [![Stage's github stats](https://github-readme-stats.vercel.app/api?username=stageosu&count_private=true&show_icons=true&theme=radical)](https://github.com/stageosu/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stageosu&theme=radical)](https://github.com/stageosu/github-readme-stats)
