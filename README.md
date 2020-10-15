@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Harry (aka Stage on the internet) 👋
 
-<!--
-**stageosu/stageosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Developer of [Kaguya](http://kaguyabot.xyz/) | An all-in-one Discord chat bot solution
+- ✔️ C# | .NET Core
+- Technologies I want to learn:
+    - Java (University Course)
+    - Python
+    - C++
+    - Web development with HTML/CSS/JS (Bulma.io)
+    - Docker
+    - Continuous Integration
+    - Databases beyond basic MySQL functionality (I have a lot to learn...)
+- 📫 Contact: hburnett777@gmail.com | Discord: Stage#0001
+- ℹ About Me:
+    - 19 years old
+    - Bachelor's of Science Candidate at UNC Asheville in Computer Science
+    - Began writing code Fall 2017 (100% self-taught)
+    - Started the [Kaguya Project](https://top.gg/bot/538910393918160916) January 2018
+        - Used in ~5,000 Discord Communities
+        - Used by over 230,000 unique users
+        - Over 330,000 commands used to date
