@@ -17,7 +17,7 @@
     - Began writing code Fall 2017 (100% self-taught)
     - Started the [Kaguya Project](https://top.gg/bot/538910393918160916) January 2018
         - Used in ~5,000 Discord Communities
-        - Used by over 230,000 unique users
+        - Used by over 270,000 unique users
         - Over 330,000 commands used to date
 ---
 ### Github Stats:
