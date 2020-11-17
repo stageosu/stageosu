@@ -12,7 +12,7 @@
     - Databases beyond basic MySQL functionality (I have a lot to learn...)
 - 📫 Contact: hburnett777@gmail.com | Discord: Stage#0001
 - ℹ About Me:
-    - 19 years old
+    - 20 years old
     - Bachelor's of Science Candidate for Computer Science at UNC Asheville
     - Began writing code Fall 2017 (100% self-taught)
     - Started the [Kaguya Project](https://top.gg/bot/538910393918160916) January 2018
