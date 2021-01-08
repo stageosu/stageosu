@@ -1,6 +1,6 @@
 ### Hey, I'm Harry (aka Stage on the internet) 👋
 
-- 🔭 Developer of [Kaguya](http://kaguyabot.xyz/) | An all-in-one Discord chat bot solution
+- 🔭 Developer of [Kaguya](https://github.com/kaguyabot/Kaguya) | An all-in-one Discord chat bot solution
 - ✔️ C# | .NET Core
 - Technologies I want to learn:
     - Java (University Course)
@@ -15,7 +15,7 @@
     - 20 years old
     - Bachelor's of Science Candidate for Computer Science at UNC Asheville
     - Began writing code Fall 2017 (100% self-taught)
-    - Started the [Kaguya Project](https://github.com/kaguyabot/Kaguya) January 2018
+    - Started the Kaguya Project January 2018
         - Used in ~5,000 Discord Communities
         - Used by over 270,000 unique users
         - Over 330,000 commands used to date
